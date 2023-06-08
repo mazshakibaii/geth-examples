@@ -3,7 +3,7 @@ This repository contains a collection of scripts that demonstrate how an auditor
 
 ## Introduction
 
-Auditing financial transactions on a private EVM blockchain can be a challenging task, as the data is not readily accessible like in a traditional centralized database. However, by understanding how the ledger operates and leveraging tools such as `go-ethereum`, auditors can effectively extract, analyze, and opine on blockchain-based financial data.
+Auditing financial transactions on a private EVM blockchain can be a challenging task, as the data is not readily accessible like in a traditional centralized database. However, by understanding how the ledger operates and leveraging tools such as `[go-ethereum](https://github.com/ethereum/go-ethereum)`, auditors can effectively extract, analyze, and opine on blockchain-based financial data.
 
 This repository aims to provide auditors with a starting point and reference implementation for accessing financial data from a private EVM blockchain. The two scripts included in this collection are:
 
